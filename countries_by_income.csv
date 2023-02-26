@@ -1,0 +1,219 @@
+country,income_level
+Afghanistan,low income
+Guinea-Bissau,low income
+Somalia,low income
+Burkina Faso,low income
+"Korea, Dem. People's Rep",low income
+South Sudan,low income
+Burundi,low income
+Liberia,low income
+Sudan,low income
+Central African  Republic,low income
+Madagascar,low income
+﻿﻿Syrian Arab Republic,low income
+Chad,low income
+Malawi,low income
+Togo,low income
+"Congo, Dem. Rep",low income
+Mali,low income
+Uganda,low income
+Eritrea,low income
+Mozambique,low income
+"Yemen, Rep.",low income
+Ethiopia,low income
+Niger,low income
+Zambia,low income
+"Gambia, The",low income
+Rwanda,low income
+nan,high income
+Guinea,low income
+Sierra Leone,low income
+Angola,low middle income
+India,low middle income
+Philippines,low middle income
+Algeria,low middle income
+Indonesia,low middle income
+Samoa,low middle income
+Bangladesh,low middle income
+"Iran, Islamic Rep",low middle income
+São Tomé and Principe,low middle income
+Benin,low middle income
+Kenya,low middle income
+Senegal,low middle income
+Bhutan,low middle income
+Kiribati,low middle income
+Solomon Islands,low middle income
+Bolivia,low middle income
+Kyrgyz Republic,low middle income
+Sri Lanka,low middle income
+Cabo  Verde,low middle income
+Lao PDR,low middle income
+Tanzania,low middle income
+Cambodia,low middle income
+Lebanon,low middle income
+Tajikistan,low middle income
+Cameroon,low middle income
+Lesotho,low middle income
+Timor-Leste,low middle income
+Comoros,low middle income
+Mauritania,low middle income
+Tunisia,low middle income
+"Congo,  Rep.",low middle income
+"Micronesia, Fed. Sts.",low middle income
+Ukraine,low middle income
+Côte  d'Ivoire,low middle income
+Mongolia,low middle income
+Uzbekistan,low middle income
+Djibouti,low middle income
+Morocco,low middle income
+Vanuatu,low middle income
+"Egypt,  Arab Rep.",low middle income
+Myanmar,low middle income
+Vietnam,low middle income
+El  Salvador,low middle income
+Nepal,low middle income
+West Bank and Gaza,low middle income
+Eswatini,low middle income
+Nicaragua,low middle income
+Zimbabwe,low middle income
+Ghana,low middle income
+Nigeria,low middle income
+Haiti,low middle income
+Pakistan,low middle income
+Honduras,low middle income
+Papua New Guinea,low middle income
+Albania,upper middle income
+Fiji,upper middle income
+Namibia,upper middle income
+American  Samoa,upper middle income
+Gabon,upper middle income
+North Macedonia,upper middle income
+Argentina,upper middle income
+Georgia,upper middle income
+Palau,upper middle income
+Armenia,upper middle income
+Grenada,upper middle income
+Paraguay,upper middle income
+Azerbaijan,upper middle income
+Guatemala,upper middle income
+Peru,upper middle income
+Belarus,upper middle income
+Guyana,upper middle income
+Russian Federation,upper middle income
+Belize,upper middle income
+Iraq,upper middle income
+Serbia,upper middle income
+Bosnia  and Herzegovina,upper middle income
+Jamaica,upper middle income
+South Africa,upper middle income
+Botswana,upper middle income
+Jordan,upper middle income
+St. Lucia,upper middle income
+Brazil,upper middle income
+Kazakhstan,upper middle income
+St. Vincent and the Grenadines,upper middle income
+Bulgaria,upper middle income
+Kosovo,upper middle income
+Suriname,upper middle income
+China,upper middle income
+Libya,upper middle income
+Thailand,upper middle income
+Colombia,upper middle income
+Malaysia,upper middle income
+Tonga,upper middle income
+Costa  Rica,upper middle income
+Maldives,upper middle income
+Türkiye,upper middle income
+Cuba,upper middle income
+Marshall Islands,upper middle income
+Turkmenistan,upper middle income
+Dominica,upper middle income
+Mauritius,upper middle income
+Tuvalu,upper middle income
+Dominican  Republic,upper middle income
+Mexico,upper middle income
+Equatorial  Guinea,upper middle income
+Moldova,upper middle income
+Ecuador,upper middle income
+Montenegro,upper middle income
+Andorra,high income
+Greece,high income
+Poland,high income
+Antigua  and Barbuda,high income
+Greenland,high income
+Portugal,high income
+Aruba,high income
+Guam,high income
+Puerto Rico,high income
+Australia,high income
+"Hong Kong SAR, China",high income
+Qatar,high income
+Austria,high income
+Hungary,high income
+Romania,high income
+"Bahamas,  The",high income
+Iceland,high income
+San Marino,high income
+Bahrain,high income
+Ireland,high income
+Saudi Arabia,high income
+Barbados,high income
+Isle of Man,high income
+Seychelles,high income
+Belgium,high income
+Israel,high income
+Singapore,high income
+Bermuda,high income
+Italy,high income
+Sint Maarten (Dutch part),high income
+British  Virgin Islands,high income
+Japan,high income
+Slovak Republic,high income
+Brunei  Darussalam,high income
+"Korea, Rep.",high income
+Slovenia,high income
+Canada,high income
+Kuwait,high income
+Spain,high income
+Cayman  Islands,high income
+Latvia,high income
+St. Kitts and Nevis,high income
+Channel  Islands,high income
+Liechtenstein,high income
+St. Martin (French part),high income
+Chile,high income
+Lithuania,high income
+Sweden,high income
+Croatia,high income
+Luxembourg,high income
+Switzerland,high income
+Curaçao,high income
+"Macao SAR, China",high income
+"Taiwan, China",high income
+Cyprus,high income
+Malta,high income
+Trinidad and Tobago,high income
+Czech  Republic,high income
+Monaco,high income
+Turks and Caicos Islands,high income
+Denmark,high income
+Nauru,high income
+United Arab Emirates,high income
+Estonia,high income
+Netherlands,high income
+United Kingdom,high income
+Faroe  Islands,high income
+New Caledonia,high income
+United States,high income
+Finland,high income
+New Zealand,high income
+Uruguay,high income
+France,high income
+Northern Mariana Islands,high income
+Virgin Islands (U.S.),high income
+French  Polynesia,high income
+Norway,high income
+Germany,high income
+Oman,high income
+Gibraltar,high income
+Panama,high income
